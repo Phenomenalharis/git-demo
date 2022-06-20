@@ -6,8 +6,7 @@ This is the first project
 
 Here some text as well
 
-Trying add+commit at a time with following command
-git commit -am "Trying new command"
+new commands
 
 where it says add new changes and commit with a message m
 
